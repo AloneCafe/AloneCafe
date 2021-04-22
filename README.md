@@ -27,12 +27,12 @@
 
   ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=flat-square&logo=GNU&labelColor=A42E2B)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&labelColor=FCC624&logoColor=fff)
-  ➡️
+  <a>&nbsp;&nbsp;</a>➡️<a>&nbsp;&nbsp;</a>
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=Arch%20Linux&labelColor=1793D1&logoColor=fff)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&labelColor=E95420&logoColor=fff)
   
   ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat-square&logo=Microsoft&labelColor=5E5E5E)
-  ➡️
+  <a>&nbsp;&nbsp;</a>➡️<a>&nbsp;&nbsp;</a>
   ![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=Windows&labelColor=0078D6)
 
 * 目前使用的笔记本 & 手机:
