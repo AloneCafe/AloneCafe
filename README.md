@@ -16,7 +16,7 @@
 -->
 * 关于我:
   
-  [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&labelColor=181717)](https://github.com/AloneCafe/)
+  [![Github](https://img.shields.io/badge/-Github%20主页-181717?style=flat-square&logo=Github&labelColor=181717)](https://github.com/AloneCafe/)
   [![Buefy](https://img.shields.io/badge/-个人博客-7957D5?style=flat-square&logo=Buefy&labelColor=7957D5&logoColor=fff)](https://alone.cafe/)
   [![Gmail](https://img.shields.io/badge/-电子邮箱-EA4335?style=flat-square&logo=Gmail&labelColor=EA4335&logoColor=fff)](mailto:alone.cafe@outlook.com)
 
