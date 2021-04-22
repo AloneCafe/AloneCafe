@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=cn" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&layout=compact&hide=HTML,M4&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn" />
 </a>
 
 <!--
