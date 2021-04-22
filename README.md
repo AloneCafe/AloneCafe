@@ -17,11 +17,11 @@
 
 * 正在使用 & 研修中的编程语言: 
 
-  ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
-  ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
-  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&labelColor=2C2D72)
-  ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
+  ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&labelColor=00599C)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&labelColor=A8B9CC&logoColor=fff)
+  ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=Go&labelColor=00ADD8&logoColor=fff)
+  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=Lua&labelColor=2C2D72)
+  ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=Haskell&labelColor=5D4F85)
 
 * 编程开发时常用的操作系统:
 
