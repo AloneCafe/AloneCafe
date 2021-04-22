@@ -8,6 +8,7 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn" />
 </a>
+  
 </p>
 
 <!--
@@ -47,7 +48,10 @@
   💻<a>&nbsp;&nbsp;</a>![Google](https://img.shields.io/badge/-Google%20Pixel%202%20XL-4285F4?style=plastic&logo=Google&labelColor=4285F4&logoColor=fff)
 
 
-  
+<p align="center"> 
+  访客 PV 统计<br>
+  <img src="https://profile-counter.glitch.me/AloneCafe/count.svg" />
+</p>
   
 
 <!--
