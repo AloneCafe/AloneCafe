@@ -24,7 +24,7 @@
   [![Buefy](https://img.shields.io/badge/-个人博客-7957D5?style=flat-square&logo=Buefy&labelColor=7957D5&logoColor=fff)](https://alone.cafe/)
   [![Gmail](https://img.shields.io/badge/-电子邮箱-EA4335?style=flat-square&logo=Gmail&labelColor=EA4335&logoColor=fff)](mailto:alone.cafe@outlook.com)
   [![留言板](https://img.shields.io/badge/-留言板-1A73E8?style=flat-square&logo=Google%20Messages&labelColor=1A73E8&logoColor=fff)](https://gist.github.com/AloneCafe/5c8314b5b8de75a81b22b2619eefd426)
-* 正在使用 & 研修中的编程语言: 
+* 正在使用 & 研习中的编程语言: 
 
   ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
@@ -44,7 +44,7 @@
   <a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>
   ![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?style=plastic&logo=Windows&labelColor=0078D6)
 
-* 目前使用的笔记本 & 手机:
+* 目前使用的笔记本电脑 & 手机:
 
   📱<a>&nbsp;&nbsp;</a>![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=plastic&logo=Dell&labelColor=007DB8)
   
