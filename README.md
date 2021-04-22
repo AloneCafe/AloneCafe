@@ -1,8 +1,8 @@
 ### ☕ Alone Café / 阿龙咖啡
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&theme=buefy)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&layout=compact&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&layout=compact&theme=buefy&hide=HTML&locale=cn)
 
 ![Cpp](https://img.shields.io/badge/-C%2B%2B-777bb3?style=flat-square&logo=C%2B%2B&labelColor=777bb3&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-e5cd0c?style=flat-square&logo=C&labelColor=f7df1e&logoColor=000)
