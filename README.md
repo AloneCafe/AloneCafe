@@ -1,4 +1,4 @@
-## ☕ Alone Café / 阿龙咖啡
+## ☕ Alone Café / 阿龙咖啡 / アーロン珈琲
 
 <p>
 <a href="#">
