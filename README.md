@@ -20,7 +20,7 @@
   [![Github](https://img.shields.io/badge/-Github%20主页-181717?style=flat-square&logo=Github&labelColor=181717)](https://github.com/AloneCafe/)
   [![Buefy](https://img.shields.io/badge/-个人博客-7957D5?style=flat-square&logo=Buefy&labelColor=7957D5&logoColor=fff)](https://alone.cafe/)
   [![Gmail](https://img.shields.io/badge/-电子邮箱-EA4335?style=flat-square&logo=Gmail&labelColor=EA4335&logoColor=fff)](mailto:alone.cafe@outlook.com)
-
+  [![留言板](https://img.shields.io/badge/-留言板-1A73E8?style=flat-square&logo=Google%20Messages&labelColor=1A73E8&logoColor=fff)](https://gist.github.com/AloneCafe/5c8314b5b8de75a81b22b2619eefd426)
 * 正在使用 & 研修中的编程语言: 
 
   ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C)
