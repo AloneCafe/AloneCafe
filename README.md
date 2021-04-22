@@ -27,12 +27,12 @@
 
   ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=plastic&logo=GNU&labelColor=A42E2B)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=Linux&labelColor=FCC624&logoColor=fff)
-  <a>&nbsp;&nbsp;</a>➡️<a>&nbsp;&nbsp;</a>
+  <a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=plastic&logo=Arch%20Linux&labelColor=1793D1&logoColor=fff)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&labelColor=E95420&logoColor=fff)
   
   ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=plastic&logo=Microsoft&labelColor=5E5E5E)
-  <a>&nbsp;&nbsp;</a>➡️<a>&nbsp;&nbsp;</a>
+  <a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>
   ![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?style=plastic&logo=Windows&labelColor=0078D6)
 
 * 目前使用的笔记本 & 手机:
@@ -40,8 +40,8 @@
   📱<a>&nbsp;&nbsp;</a>![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=plastic&logo=Dell&labelColor=007DB8)
   
   💻<a>&nbsp;&nbsp;</a>![Google](https://img.shields.io/badge/-Google%20Pixel%202%20XL-4285F4?style=plastic&logo=Google&labelColor=4285F4&logoColor=fff)
-  
-  
+
+
   
   
 
