@@ -4,7 +4,7 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=cn" />
 </a>
-<a>&nbsp;&nbsp;</a>
+<a>&nbsp;</a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn" />
 </a>
@@ -27,7 +27,7 @@
 
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=Arch%20Linux&labelColor=1793D1&logoColor=fff)
   ![Windows](https://img.shields.io/badge/-Windows%20NT-0078D6?style=flat-square&logo=Windows&labelColor=0078D6)
-
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&labelColor=E95420&logoColor=fff)
 
 
 <!--
