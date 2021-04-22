@@ -46,9 +46,9 @@
 
 * 目前使用的笔记本电脑 & 手机:
 
-  📱<a>&nbsp;&nbsp;</a>![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=plastic&logo=Dell&labelColor=007DB8)
+  💻<a>&nbsp;&nbsp;</a>![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=plastic&logo=Dell&labelColor=007DB8)
   
-  💻<a>&nbsp;&nbsp;</a>![Google](https://img.shields.io/badge/-Google%20Pixel%202%20XL-4285F4?style=plastic&logo=Google&labelColor=4285F4&logoColor=fff)
+  📱<a>&nbsp;&nbsp;</a>![Google](https://img.shields.io/badge/-Google%20Pixel%202%20XL-4285F4?style=plastic&logo=Google&labelColor=4285F4&logoColor=fff)
 
 
 <p align="center"> 
