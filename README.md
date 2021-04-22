@@ -15,10 +15,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn)
 -->
 
-![Cpp](https://img.shields.io/badge/-C%2B%2B-777bb3?style=flat-square&logo=C%2B%2B&labelColor=777bb3&logoColor=fff)
-![C](https://img.shields.io/badge/-C-e5cd0c?style=flat-square&logo=C&labelColor=f7df1e&logoColor=000)
-![Lua](https://img.shields.io/badge/-Lua-888?style=flat-square&logo=Lua)
-![Haskell](https://img.shields.io/badge/-Haskell-FA7343?style=flat-square&logo=Haskell&labelColor=FA7343&logoColor=fff)
+* 正在使用 & 研修中的编程语言: 
+
+  ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
+  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&labelColor=2C2D72)
+  ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
+
+* 编程开发时常用的操作系统:
+
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=Arch%20Linux&labelColor=1793D1&logoColor=fff)
+  ![Windows](https://img.shields.io/badge/-Windows%20NT-0078D6?style=flat-square&logo=Windows&labelColor=0078D6)
 
 
 
