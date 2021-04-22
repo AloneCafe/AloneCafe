@@ -29,6 +29,11 @@
   ![Windows](https://img.shields.io/badge/-Windows%20NT-0078D6?style=flat-square&logo=Windows&labelColor=0078D6)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&labelColor=E95420&logoColor=fff)
 
+* 目前使用的笔记本 & 手机:
+
+  ![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=flat-square&logo=Dell&labelColor=007DB8)
+  ![Google](https://img.shields.io/badge/-Google%20Pixel%202%20XL-4285F4?style=flat-square&logo=Google&labelColor=4285F4&logoColor=fff)
+  <!--![Apple](https://img.shields.io/badge/-Macbook%20Pro%2013%20Inch-000000?style=flat-square&logo=Apple&labelColor=000000)-->
 
 <!--
 **AloneCafe/AloneCafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
