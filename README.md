@@ -32,7 +32,7 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&labelColor=E95420&logoColor=fff)
   
   ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat-square&logo=Microsoft&labelColor=5E5E5E)
-  ➡️   
+  ➡️
   ![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=Windows&labelColor=0078D6)
 
 * 目前使用的笔记本 & 手机:
