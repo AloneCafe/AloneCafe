@@ -9,7 +9,7 @@
 </a>
 <a>&nbsp;</a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4,Makefile,XSLT&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4,Makefile,CSS,Javascript,XSLT&locale=cn" />
 </a>
   
 </p>
