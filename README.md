@@ -1,7 +1,7 @@
 ## ☕ Alone Café / 阿龙咖啡 / Sebastian E. Alon
-<h3 align="center">
-📖 学无止境，须时刻保持空杯状态 | 《存在先于本质》 | 悲剧即艺术
-</h3>
+<h6 align="center">
+📖 学无止境，须时刻保持空杯状态 | 存在先于本质 | 悲剧即艺术
+</h6>
 
 <p>
 <a href="#">
@@ -22,7 +22,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn)
 -->
 
-* <u>I rebelled, therefore I exist.</u>
+* I rebelled, therefore I exist. As the lyrics of *Forever Young*:
+```
+Some are like water
+Some are like the heat
+Some are a melody and some are the beat
+Sooner or later, they all will be gone
+Why don't they stay young
+It's so hard to get old without a cause
+I don't want to perish like a fading horse
+Youth's like diamonds in the sun
+And diamonds are forever
+So many adventures couldn't happen today
+So many songs we forgot to play
+So many dreams swinging out of the blue
+We'll let them come true ...
+```
 
 * About me:
 
