@@ -31,7 +31,7 @@
   ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
   ![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=Rust&labelColor=2C2D72)
   ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
-
+<!--
 * 编程开发时常用的操作系统:
 
   ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=plastic&logo=GNU&labelColor=A42E2B)
@@ -49,7 +49,7 @@
   💻<a>&nbsp;&nbsp;</a>![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=plastic&logo=Dell&labelColor=007DB8)
   
   📱<a>&nbsp;&nbsp;</a>![Google](https://img.shields.io/badge/-Google%20Pixel%202%20XL-4285F4?style=plastic&logo=Google&labelColor=4285F4&logoColor=fff)
-
+-->
 
 <p align="center"> 
   访客 PV 统计<br>
