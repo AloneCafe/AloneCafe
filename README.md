@@ -64,6 +64,7 @@ We'll let them come true ...
   ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126)
   ![Python](https://img.shields.io/badge/-Python-A8A823?style=plastic&logo=Python&labelColor=A8A822)
+  ![gRPC](https://img.shields.io/badge/-gRPC-41453D?style=plastic&logo=Google)
   ![Vala/GTK](https://img.shields.io/badge/-Vala%2FGTK-2A5562?style=plastic&logo=GTK&labelColor=553355)
   ![Qt](https://img.shields.io/badge/-Qt-22AA12?style=plastic&logo=Qt&labelColor=443344)
   ![Shell](https://img.shields.io/badge/-Shell-BCAC9C?style=plastic&logo=shell&labelColor=ECcbab)
@@ -73,6 +74,9 @@ We'll let them come true ...
   ![Boost](https://img.shields.io/badge/-Boost-F1A100?style=plastic&logo=Boost&labelColor=11441F)
   ![libUV](https://img.shields.io/badge/-libUV-F1E1E0?style=plastic&logo=libuv&labelColor=A1A42F)
   ![ZeroMQ](https://img.shields.io/badge/-ZeroMQ-A11111?style=plastic&logo=zeromq&labelColor=BB44FF)
+  ![MySQL](https://img.shields.io/badge/-MariaDB%2FMySQL-FFFFFF?style=plastic&logo=MariaDB)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-6BAC5F?style=plastic&logo=MongoDB&labelColor=FFFFFF)
+  ![Redis](https://img.shields.io/badge/-Redis-BB2222?style=plastic&logo=Redis&labelColor=EFFFFF)
   
 * Tags of Tools (IDE / Editor / SDK)
 
@@ -83,7 +87,8 @@ We'll let them come true ...
   ![GoLand](https://img.shields.io/badge/-Goland-3355ED?style=plastic&logo=goland)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-33cb33?style=plastic&logo=anaconda&labelColor=FCECFC)
   ![QEMU](https://img.shields.io/badge/-QEMU-A4446B?style=plastic&logo=QEMU&labelColor=A47766)
-  ![ReactOS](https://img.shields.io/badge/-ReactOS-11446B?style=plastic&logo=ReactOS&labelColor=117766)
+  ![Docker](https://img.shields.io/badge/-Docker-0000FD?style=plastic&logo=docker)
+  
   
 * Tags of OS/Platform
 
@@ -91,6 +96,7 @@ We'll let them come true ...
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&labelColor=E95420&logoColor=fff)
   ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AA4032?style=plastic&logo=FreeBSD&labelColor=AA4032&logoColor=fff)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&labelColor=0078D6)
+  ![ReactOS](https://img.shields.io/badge/-ReactOS-11446B?style=plastic&logo=ReactOS&labelColor=117766)
   ![MacOS](https://img.shields.io/badge/-MacOS-FFFFFF?style=plastic&logo=MacOS&labelColor=777F7F)
   
 * Ideology
