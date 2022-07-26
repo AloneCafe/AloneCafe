@@ -62,23 +62,28 @@ We'll let them come true ...
   ![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=Rust&labelColor=2C2D72)
   ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126)
-  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126)
+  ![Python](https://img.shields.io/badge/-Python-A8A823?style=plastic&logo=Python&labelColor=A8A822)
+  ![Kernel](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=Linux&labelColor=FCC624&logoColor=fff)
   
-* Tags of Tools (IDE / Editor)
+* Tags of Tools (IDE / Editor / SDK)
 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D6?style=plastic&logo=Visual%20Studio%20Code&labelColor=0078D6)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-7800D6?style=plastic&logo=Visual%20Studio&labelColor=6678D6)
   ![Vim](https://img.shields.io/badge/-Vim-227833?style=plastic&logo=Vim&labelColor=227833)
+  ![QEMU](https://img.shields.io/badge/-QEMU-A4446B?style=plastic&logo=QEMU&labelColor=A47766)
+  ![ReactOS](https://img.shields.io/badge/-ReactOS-11446B?style=plastic&logo=ReactOS&labelColor=117766)
   
 * Tags of OS/Platform
 
-  ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=plastic&logo=GNU&labelColor=A42E2B)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=Linux&labelColor=FCC624&logoColor=fff)
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=plastic&logo=Arch%20Linux&labelColor=1793D1&logoColor=fff)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&labelColor=E95420&logoColor=fff)
   ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AA4032?style=plastic&logo=FreeBSD&labelColor=AA4032&logoColor=fff)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&labelColor=0078D6)
   ![MacOS](https://img.shields.io/badge/-MacOS-FFFFFF?style=plastic&logo=MacOS&labelColor=777F7F)
+  
+* Ideology
+
+  ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=plastic&logo=GNU&labelColor=A42E2B)
   
   <!--<a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>-->
    <!--![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=plastic&logo=Microsoft&labelColor=5E5E5E)<a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>-->
