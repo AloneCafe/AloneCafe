@@ -57,20 +57,29 @@ We'll let them come true ...
 * Tags of tech stack
 
   ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
+  ![Pure C](https://img.shields.io/badge/-Pure%20C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
   ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
   ![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=Rust&labelColor=2C2D72)
-  ![C#](https://img.shields.io/badge/-CSharp-11449B?style=plastic&logo=CSharp&labelColor=1177AA)
+  ![C#](https://img.shields.io/badge/-C%23-11449B?style=plastic&logo=CSharp&labelColor=1177AA)
   ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126)
   ![Python](https://img.shields.io/badge/-Python-A8A823?style=plastic&logo=Python&labelColor=A8A822)
-  ![Kernel](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=Linux&labelColor=FCC624&logoColor=fff)
+  ![Vala/GTK](https://img.shields.io/badge/-Vala%2FGTK-2A5562?style=plastic&logo=GTK&labelColor=553355)
+  ![Qt](https://img.shields.io/badge/-Qt-22AA12?style=plastic&logo=Qt&labelColor=443344)
+  ![Shell](https://img.shields.io/badge/-Shell-BCAC9C?style=plastic&logo=shell&labelColor=ECcbab)
+  ![Linux Kernel](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=Linux&labelColor=FCC624&logoColor=fff)
+  ![OpenGL](https://img.shields.io/badge/-OpenGL-AAAAAA?style=plastic&logo=OpenGL&labelColor=FFFFFF)
+  ![Boost](https://img.shields.io/badge/-Boost-F1A100?style=plastic&logo=Boost&labelColor=11441F)
+  ![libUV](https://img.shields.io/badge/-libUV-F1E1E0?style=plastic&logo=libuv&labelColor=A1A42F)
+  ![ZeroMQ](https://img.shields.io/badge/-ZeroMQ-A11111?style=plastic&logo=zeromq&labelColor=BB44FF)
   
 * Tags of Tools (IDE / Editor / SDK)
 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D6?style=plastic&logo=Visual%20Studio%20Code&labelColor=0078D6)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-7800D6?style=plastic&logo=Visual%20Studio&labelColor=6678D6)
   ![Vim](https://img.shields.io/badge/-Vim-227833?style=plastic&logo=Vim&labelColor=227833)
+  ![CLion](https://img.shields.io/badge/-CLion-434323?style=plastic&logo=CLion&labelColor=111111)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-33cb33?style=plastic&logo=anaconda&labelColor=FCECFC)
   ![QEMU](https://img.shields.io/badge/-QEMU-A4446B?style=plastic&logo=QEMU&labelColor=A47766)
   ![ReactOS](https://img.shields.io/badge/-ReactOS-11446B?style=plastic&logo=ReactOS&labelColor=117766)
   
