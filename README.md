@@ -60,6 +60,7 @@ We'll let them come true ...
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
   ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
   ![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=Rust&labelColor=2C2D72)
+  ![C#](https://img.shields.io/badge/-CSharp-11449B?style=plastic&logo=CSharp&labelColor=1177AA)
   ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126)
   ![Python](https://img.shields.io/badge/-Python-A8A823?style=plastic&logo=Python&labelColor=A8A822)
