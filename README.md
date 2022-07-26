@@ -1,7 +1,7 @@
 ## ☕ Alone Café / 阿龙咖啡 / Sebastian E. Alon
-<h4 align="center">
-📖 学无止境，须时刻保持空杯状态 | 存在先于本质 | 悲剧即艺术
-</h4>
+<h3 align="center">
+📖 学无止境，须时刻保持空杯状态 | 《存在先于本质》 | 悲剧即艺术
+</h3>
 
 <p>
 <a href="#">
@@ -11,6 +11,7 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4,Makefile,CSS,Javascript,CMake,XSLT,PHP&locale=cn" />
 </a>
+  <a>&nbsp;</a>
 <a href="#">
 <img align="center" src=https://user-images.githubusercontent.com/20834047/180906345-922c6f9c-27ea-4fd7-be99-d03ba4fc1095.png width=10% />
 </a>
@@ -20,12 +21,15 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn)
 -->
+
+* <u>I rebelled, therefore I exist.</u>
+
 * About me:
 
-  [![Github](https://img.shields.io/badge/-Github%20主页-181717?style=flat-square&logo=Github&labelColor=181717)](https://github.com/AloneCafe/)
-  [![Buefy](https://img.shields.io/badge/-个人博客-7957D5?style=flat-square&logo=Buefy&labelColor=7957D5&logoColor=fff)](https://alone.cafe/)
-  [![Gmail](https://img.shields.io/badge/-电子邮箱-EA4335?style=flat-square&logo=Gmail&labelColor=EA4335&logoColor=fff)](mailto:alone.cafe@outlook.com)
-  [![留言板](https://img.shields.io/badge/-留言板-1A73E8?style=flat-square&logo=Google%20Messages&labelColor=1A73E8&logoColor=fff)](https://gist.github.com/AloneCafe/5c8314b5b8de75a81b22b2619eefd426)
+  [![Github Personal Page](https://img.shields.io/badge/-Github%20Homepage-181717?style=flat-square&logo=Github&labelColor=181717)](https://github.com/AloneCafe/)
+  [![Personal Page](https://img.shields.io/badge/-Personal%20Homepage-7957D5?style=flat-square&logo=Buefy&labelColor=7957D5&logoColor=fff)](https://alone.cafe/)
+  [![Email to me](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&labelColor=EA4335&logoColor=fff)](mailto:alone.cafe@outlook.com)
+  [![Leave me a message](https://img.shields.io/badge/-Leave%20me%20a%20message-1A73E8?style=flat-square&logo=Google%20Messages&labelColor=1A73E8&logoColor=fff)](https://gist.github.com/AloneCafe/5c8314b5b8de75a81b22b2619eefd426)
 
   
 <!--
