@@ -15,14 +15,17 @@
 <a href="#">
 <img align="center" src=https://user-images.githubusercontent.com/20834047/180906345-922c6f9c-27ea-4fd7-be99-d03ba4fc1095.png width=10% />
 </a>
+
 </p>
+
+* ~~Put on a happy face~~
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn)
 -->
 
-* I rebelled, therefore I exist. As the lyrics of *Forever Young*:
+* I rebelled, therefore I exist. As the lyrics of *Forever Young*.
 ```
 Some are like water
 Some are like the heat
@@ -39,7 +42,7 @@ So many dreams swinging out of the blue
 We'll let them come true ...
 ```
 
-* About me:
+* About me
 
   [![Github Personal Page](https://img.shields.io/badge/-Github%20Homepage-181717?style=flat-square&logo=Github&labelColor=181717)](https://github.com/AloneCafe/)
   [![Personal Page](https://img.shields.io/badge/-Personal%20Homepage-7957D5?style=flat-square&logo=Buefy&labelColor=7957D5&logoColor=fff)](https://alone.cafe/)
@@ -51,7 +54,7 @@ We'll let them come true ...
 * 编程开发时常用的操作系统:
 -->
 
-* Tags:
+* Tags
 
   ![Cpp](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=fff)
