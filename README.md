@@ -99,7 +99,7 @@ We'll let them come true ...
   ![ReactOS](https://img.shields.io/badge/-ReactOS-11446B?style=plastic&logo=ReactOS&labelColor=117766)
   ![MacOS](https://img.shields.io/badge/-MacOS-FFFFFF?style=plastic&logo=MacOS&labelColor=777F7F)
   
-* Ideology
+* Software Ideology
 
   ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=plastic&logo=GNU&labelColor=A42E2B)
   
@@ -117,7 +117,8 @@ We'll let them come true ...
   访客 PV 统计<br>
   <img src="https://profile-counter.glitch.me/AloneCafe/count.svg" />
 </p>
-  
+
+<!--![KDE](https://img.shields.io/badge/-KDE-1122D2?style=plastic&logo=KDE&labelColor=EFFFFF)-->
 
 <!--
 **AloneCafe/AloneCafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
