@@ -1,4 +1,4 @@
-## ☕ Alone Café / 阿龙咖啡 / Sebastian E. Alon
+## ☕ Alone Café 
 <h6 align="center">
 📖 学无止境，须时刻保持空杯状态 | 存在先于本质 | 悲剧即艺术
 </h6>
