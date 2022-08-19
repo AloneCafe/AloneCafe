@@ -93,7 +93,7 @@
   <!--<a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>-->
    <!--![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=plastic&logo=Microsoft&labelColor=5E5E5E)<a>&nbsp;&nbsp;</a>⟹<a>&nbsp;&nbsp;</a>-->
 <!--
-* 目前使用的笔记本电脑 & 手机:
+* PC & Phone:
 
   💻<a>&nbsp;&nbsp;</a>![Dell](https://img.shields.io/badge/-Dell%20Precision%20M6800-007DB8?style=plastic&logo=Dell&labelColor=007DB8)
   
@@ -101,7 +101,6 @@
 -->
 
 <p align="center"> 
-  访客 PV 统计<br>
   <img src="https://profile-counter.glitch.me/AloneCafe/count.svg" />
 </p>
 
