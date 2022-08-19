@@ -5,11 +5,11 @@
 
 <p>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
 </a>
 <a>&nbsp;</a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4,Makefile,CSS,Javascript,CMake,XSLT,PHP,Java&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4,Makefile,CSS,Javascript,CMake,XSLT,PHP,Java&locale=en" />
 </a>
   <a>&nbsp;</a>
 <a href="#">
