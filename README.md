@@ -17,9 +17,6 @@
 </a>
 
 </p>
-
-* ~~Put on a happy face~~
-
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneCafe&show_icons=true&count_private=true&include_all_commits=true&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneCafe&hide=HTML,M4&locale=cn)
