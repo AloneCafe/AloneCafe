@@ -44,10 +44,10 @@
   ![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=Rust&labelColor=2C2D72)
   ![C#](https://img.shields.io/badge/-C%23-11449B?style=plastic&logo=CSharp&labelColor=1177AA)
   ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85)
-  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126)
+  <!--![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-531126?style=plastic&logo=Unreal%20Engine&labelColor=001126) -->
   ![Python](https://img.shields.io/badge/-Python-A8A823?style=plastic&logo=Python&labelColor=A8A822)
   ![gRPC](https://img.shields.io/badge/-gRPC-41453D?style=plastic&logo=Google)
-  ![Vala/GTK](https://img.shields.io/badge/-Vala%2FGTK-2A5562?style=plastic&logo=GTK&labelColor=553355)
+  <!-- ![Vala/GTK](https://img.shields.io/badge/-Vala%2FGTK-2A5562?style=plastic&logo=GTK&labelColor=553355) -->
   ![Qt](https://img.shields.io/badge/-Qt-22AA12?style=plastic&logo=Qt&labelColor=443344)
   ![Shell](https://img.shields.io/badge/-Shell-BCAC9C?style=plastic&logo=shell&labelColor=ECcbab)
   ![.NET CLR](https://img.shields.io/badge/-.NET%20CLR-3355ED?style=plastic&logo=.NET)
@@ -73,7 +73,7 @@
   ![QEMU](https://img.shields.io/badge/-QEMU-A4446B?style=plastic&logo=QEMU&labelColor=A47766)
   ![Docker](https://img.shields.io/badge/-Docker-0000FD?style=plastic&logo=docker)
   
-  
+  <!--
 * Tags of OS/Platform
 
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=plastic&logo=Arch%20Linux&labelColor=1793D1&logoColor=fff)
@@ -82,7 +82,7 @@
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&labelColor=0078D6)
   ![ReactOS](https://img.shields.io/badge/-ReactOS-11446B?style=plastic&logo=ReactOS&labelColor=117766)
   ![MacOS](https://img.shields.io/badge/-MacOS-FFFFFF?style=plastic&logo=MacOS&labelColor=777F7F)
-  
+  -->
 * Software Ideology
 
   ![GNU](https://img.shields.io/badge/-GNU-A42E2B?style=plastic&logo=GNU&labelColor=A42E2B)
