@@ -1,6 +1,6 @@
 ## ☕ Alone Café 
 <h6 align="center">
-📖 学无止境，须时刻保持空杯状态 | 存在先于本质
+📖 Nothing is so common as the wish to be remarkable. 
 </h6>
 
 <p>
